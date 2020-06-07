@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+* {
+	margin: 0; 
+	padding: 0;
+}
+.Page_ {
+		font-family: 'Lato', sans-serif !important;
+}
+.nav-link{
+	color: #fff !important;
+}
+.jumbotron {
+	background-color: #fff !important;
+	color: #007bff;
+	text-align: center;
+}
+.block {
+		color: #dc3545;
+}
+.block_ {
+	color: #dc3545;
+}
